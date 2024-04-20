@@ -25,6 +25,9 @@ The motivation behind this project was to gain a deeper understanding of the Sea
 - The dataset used in this project was obtained from Kaggle (https://www.kaggle.com/datasets/airbnb/seattle?resource=download).
 - Inspiration for the project structure and analysis techniques was drawn from various online resources and tutorials.
 
+## GitHub Repository
+https://github.com/anhtran192/Write-a-Data-Science-Blog-Post
+
 ## Usage
 To run the analysis, you can simply open the Jupyter notebook `Seattle_Airbnb_Data_Analysis.ipynb` and execute the cells sequentially. Make sure you have all the required libraries installed in your environment.
 
