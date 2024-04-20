@@ -28,6 +28,10 @@ The motivation behind this project was to gain a deeper understanding of the Sea
 ## GitHub Repository
 https://github.com/anhtran192/Write-a-Data-Science-Blog-Post
 
+## Blog Post
+
+Link to the blog post: [Seattle Airbnb Data Analysis][https://github.com/anhtran192/Write-a-Data-Science-Blog-Post/blob/main/blog-post.md]
+
 ## Usage
 To run the analysis, you can simply open the Jupyter notebook `Seattle_Airbnb_Data_Analysis.ipynb` and execute the cells sequentially. Make sure you have all the required libraries installed in your environment.
 
