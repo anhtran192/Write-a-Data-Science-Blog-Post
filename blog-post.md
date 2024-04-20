@@ -1,5 +1,7 @@
 Project: Seattle Airbnb Data Analysis
+
 Business Understanding
+
 Brief Description
 In this section, we provide an overview of the project's objectives and the significance of analyzing the Seattle Airbnb dataset.
 
