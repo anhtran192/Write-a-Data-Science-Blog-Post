@@ -1,4 +1,5 @@
 Unlocking Seattle's Airbnb Secrets: Insights for Hosts and Guests
+
 ![image](https://github.com/anhtran192/Write-a-Data-Science-Blog-Post/assets/147739264/3cab5b14-f738-43f2-a241-ff2b58bb0052)
 
 Business Understanding
