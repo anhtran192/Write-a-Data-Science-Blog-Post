@@ -26,8 +26,13 @@ After exploring the data, we preprocess it to ensure it's ready for analysis. Th
 Finding results
 
 Neighborhood Pricing Analysis: We analyze the variation in pricing across Seattle neighborhoods. Visualizations such as box plots provide insights into price distributions, showcasing differences among neighborhoods.
+![Screenshot 2024-04-21 at 8 04 17 PM](https://github.com/anhtran192/Write-a-Data-Science-Blog-Post/assets/147739264/de0cf4bc-689b-4d52-865c-630e1b6ad6a1)
+
 Factors Influencing Rental Prices: Our analysis uncovers the most influential factors impacting Airbnb rental prices in Seattle. Through visualizations, we illustrate the relationships between different variables and rental prices, providing valuable insights for hosts and guests alike.
+![Screenshot 2024-04-21 at 8 03 56 PM](https://github.com/anhtran192/Write-a-Data-Science-Blog-Post/assets/147739264/6d63a39b-8346-4d5c-96ee-3c92a01ddf80)
+
 Customer Satisfaction Insights: Delving into customer satisfaction, we analyze review scores to understand guests' experiences. Visualizations highlight the distribution of review scores, offering insights into overall satisfaction levels.
+![Screenshot 2024-04-21 at 8 03 25 PM](https://github.com/anhtran192/Write-a-Data-Science-Blog-Post/assets/147739264/1901ef9f-2540-400e-ad2f-652dabc7f149)
 
 Conclusion
 In this blog post, we've explored the Seattle Airbnb dataset and uncovered valuable insights into the city's rental market. From pricing trends to customer satisfaction analysis, our findings can help hosts optimize their listings and guests make informed decisions when booking accommodations. By leveraging data science techniques, we've gained valuable insights that can inform strategic decisions and drive success in the Airbnb ecosystem.
